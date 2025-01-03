@@ -1,5 +1,4 @@
 ### Hellooooo 👋
-I am a Full Stack Web Developer having 5+ years of experience in Web Development. Passion for coding, love building things, and focused on problem-solving. Demonstrated expertise in resolving web app/site issues, setup, customization, development, and migration.
 
 <!--
 **aagjalpankaj/aagjalpankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
